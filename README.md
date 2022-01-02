@@ -40,21 +40,29 @@ Sincerely,</p>
 ## My Skills
 
 ### Languages/Frameworks I'm good at:
-<code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://topskill.dev/logos/laravel.png" height="42"></a></code>
-<code><a href="https://codeigniter.com/"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/todaycodemaster/logos/blob/master/ci.png" height="42"></a></code>
+<code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="./images/laravel.png" height="42"></a></code>
+<code><a href="https://codeigniter.com/"><img alt="Codeigniter" title="Codeigniter" src="./images/ci.png" height="42"></a></code>
 
-<code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://topskill.dev/logos/nodejs.png" height="42"></a></code>
-<code><a href="https://angular.io/"><img alt="Angular" title="Agnular" src="https://github.com/todaycodemaster/logos/blob/master/angular.png" height="42"></a></code>
-<code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://topskill.dev/logos/react.png" height="42"></a></code>
-<code><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://topskill.dev/logos/vue.png" height="42"></a></code>
+<code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="./images/nodejs.png" height="42"></a></code>
+<code><a href="https://angular.io/"><img alt="Angular" title="Agnular" src="./images/angular.png" height="42"></a></code>
+<code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="./images/react.png" height="42"></a></code>
 
-<code><a href="https://python.org"><img alt="Python" title="Python" src="https://topskill.dev/logos/python.png" height="42"></a></code>
-<code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="https://topskill.dev/logos/django.png" height="42"></a></code>
+<code><a href="https://python.org"><img alt="Python" title="Python" src="./images/python.png" height="42"></a></code>
+<code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./images/django.png" height="42"></a></code>
 
-<code><a href="https://www.mysql.com"><img alt="Python" title="Mysql" src="https://github.com/todaycodemaster/logos/blob/master/mysql.png" height="42"></a></code>
-<code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/todaycodemaster/logos/blob/master/postgresql.png" height="42"></a></code>
+<code><a href="https://www.mysql.com"><img alt="Python" title="Mysql" src="./images/mysql.png" height="42"></a></code>
+<code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="./images/postgresql.png" height="42"></a></code>
+<code><a href="https://www.mongodb.com"><img alt="MongoDB" title="MongoDB" src="./images/mongodb.png" height="42"></a></code>
+
+### Languages/Frameworks I'm learning now:
+<code><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="./images/vue.png" height="42"></a></code>
+
+### Blockchain Technology:
+<code><a href="https://ethereum.org"><img alt="Ethereum" title="Ethereum" src="./images/ethereum.png" height="42"></a></code>
+<code><a href="https://solidity.org"><img alt="Solidity" title="Solidity" src="./images/solidity.png" height="42"></a></code>
+<code><a href="#"><img alt="NFT" title="NFT" src="./images/nft.png" height="42"></a></code>
 
 ### Environments I work with:
 
-<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://topskill.dev/logos/git.png" height="42"></a></code>
-<code><a href="https://aws.amazon.com/"><img alt="AWS" title="AWS" src="https://topskill.dev/logos/aws.png" height="42"></a></code>
+<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./images/git.png" height="42"></a></code>
+<code><a href="https://aws.amazon.com/"><img alt="AWS" title="AWS" src="./images/aws.png" height="42"></a></code>
