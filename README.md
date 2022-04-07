@@ -22,20 +22,17 @@
 ![](https://img.shields.io/badge/Ethereum-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Solidity-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 
-<p align="justify">I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.</p>
+<p align="justify">Passionate Full Stack & Blockchain Developer offering 6+ years of relevant experience in Blockchain, MLand Robotic.</p>
 
-<p align="justify">I tend to view myself as a generalist since I try not to focus on any given technology. 
-My skills range from PHP(CI, Laravel), Node, React, Vue, Angular, Django to Mysql, Postgres, MongoDB
-and I have 5+ years of experience. </p>
+<p align="justify">I have experience developing DeFi, DEX, DApp, Trading Bot, Token, autonomous systems and artificial intelligence. I am fluent in Solidity, Web3.js, Python andJavaScript, andhave workedon a variety of projects as a consultant,helping clients achieve their goals.</p>
 
-<p align="justify">As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.</p>
+<p align="justify">I am also keen on several JavaScript and Python web frameworks like Vue, React, Django and Flask.</p>
 
-<p align="justify">Also, I'm familiar with several kinds of testing systems.
-I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable.</p>
+<p align="justify">I am a life-long learner and is looking forward to working on exciting and challenging projects.</p>
 
-<p align="justify">Because of my breadth of experience, I believe that I would make an excellent addition to your team.
+<p align="justify">I am continuously trying to improve, learn more andgain new experiences.
 
-Sincerely,</p>
+Sincerely</p>
 
 ## My Skills
 
