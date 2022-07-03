@@ -1,38 +1,9 @@
+<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square">
 
+<p align="justify">Innovative, task-driven professional with 6 years of experience in <h3 align="center">Web & Blockchain Development</h3>across diverse industries with solid leadership skills, and unrivalled building skills.
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
-
-
-![](https://img.shields.io/badge/PHP-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Codeigniter-Codeignither-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/NodeJS-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Angular-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ReactJs-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VueJS-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Python-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Django-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Mysql-Mysql-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MongoDB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/PostgreSQL-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Ethereum-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Solidity-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
-
-<p align="justify">Passionate Full Stack & Blockchain Developer offering 6+ years of relevant experience in Blockchain, MLand Robotic.</p>
-
-<p align="justify">I have experience developing DeFi, DEX, DApp, Trading Bot, Token, autonomous systems and artificial intelligence. I am fluent in Solidity, Web3.js, Python andJavaScript, andhave workedon a variety of projects as a consultant,helping clients achieve their goals.</p>
-
-<p align="justify">I am also keen on several JavaScript and Python web frameworks like Vue, React, Django and Flask.</p>
-
-<p align="justify">I am a life-long learner and is looking forward to working on exciting and challenging projects.</p>
-
-<p align="justify">I am continuously trying to improve, learn more andgain new experiences.
-
-Sincerely</p>
+Equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation. Proficient in javascript frameworks such as React.js and Vue.js, creating UX/UI user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback.</p>
+<strong>Currently looking for the position to make progress in web development skills focusing on javascript/typescript technologies.</strong>
 
 ## My Skills
 
