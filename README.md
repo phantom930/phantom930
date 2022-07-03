@@ -63,3 +63,12 @@ Sincerely</p>
 
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./images/git.png" height="42"></a></code>
 <code><a href="https://aws.amazon.com/"><img alt="AWS" title="AWS" src="./images/aws.png" height="42"></a></code>
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=phantom930&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom930&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=phantom930&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <br>
+</p>
