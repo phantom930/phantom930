@@ -1,4 +1,4 @@
-<p align="center"><a href="https://app.daily.dev/phantom930"><img src="https://api.daily.dev/devcards/caba12f5535f4a76909ded9498fbba84.png?r=s1o" width="400" alt="Dev_Star's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/phantom930"><img src="https://github.com/phantom930/phantom930/blob/main/devcard.svg" width="300" alt="Dev_Star's Dev Card"/></a></p>
 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=phantom930&style=flat-square">
 
 <p align="justify">Innovative, task-driven professional with 6 years of experience in <h3 align="center">Web & Blockchain Development</h3>across diverse industries with solid leadership skills, and unrivalled building skills.
