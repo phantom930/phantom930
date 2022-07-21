@@ -1,4 +1,5 @@
-<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square">
+<p align="center"><a href="https://app.daily.dev/phantom930"><img src="https://github.com/phantom930/phantom930/blob/main/devcard.svg" width="400" alt="Top Dev's Dev Card"/></a></p>
+<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=phantom930&style=flat-square">
 
 <p align="justify">Innovative, task-driven professional with 6 years of experience in <h3 align="center">Web & Blockchain Development</h3>across diverse industries with solid leadership skills, and unrivalled building skills.
 
