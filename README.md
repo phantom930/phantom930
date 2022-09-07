@@ -5,10 +5,9 @@
   </a>
 </div>
 
-<p align="justify">Innovative, task-driven professional with 6 years of experience in <h3 align="center">Web & Blockchain Development</h3>across diverse industries with solid leadership skills, and unrivalled building skills.
+<p align="justify">Innovative, task-driven professional with 6 years of experience in <h3 align="center">Senior Blockchain Developer</h3>across diverse industries with solid leadership skills, and unrivalled building skills.
 
 Equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation. Proficient in javascript frameworks such as React.js and Vue.js, creating UX/UI user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback.</p>
-<strong>Currently looking for the position to make progress in web development skills focusing on javascript/typescript technologies.</strong>
 
 <br/>
 
