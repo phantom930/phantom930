@@ -1,7 +1,7 @@
 <div align="left">
   <img alt="Profile Hits" src="https://komarev.com/ghpvc/?username=phantom930&style=flat-square">
   <a href="https://app.daily.dev/phantom930" target="_blank">
-    <img src="https://github.com/phantom930/phantom930/blob/main/devcard.svg" width="270" alt="Dev_Star's Dev Card" align="right"/>
+    <img src="https://github.com/phantom930/phantom930/blob/main/devcard.svg" width="150" alt="Dev_Star's Dev Card" align="right"/>
   </a>
 </div>
 
