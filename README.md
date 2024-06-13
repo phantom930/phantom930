@@ -5,9 +5,10 @@
   </a>
 </div>
 
-<p align="justify">Innovative, task-driven professional with 6 years of experience in <h3 align="center">Senior Front-end Developer</h3>across diverse industries with solid leadership skills, and unrivalled building skills.
-
-Equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation. Proficient in javascript frameworks such as React.js and Vue.js, creating UX/UI user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback.</p>
+<p align="justify">Accomplished, Innovative <h3 align="center">Full Stack Engineer</h3>with 8+ years of experience in developing and optimizing high-performance web applications.
+  
+Expertise in both frontend and backend technologies, including JAVASCRIPT, TYPESCRIPT, PYTHON, and PHP. Demonstrated success in leading development teams, enhancing system scalability, and implementing robust security measures.
+Proven ability to deliver innovative software solutions that drive user engagement and operational efficiency. Highly skilled in working with globally distributed teams, seeking remote opportunities to further leverage technical and leadership skills in dynamic environments.</p>
 
 <br/>
 
