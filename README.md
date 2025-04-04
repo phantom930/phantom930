@@ -7,7 +7,7 @@
 
 <p align="justify">Accomplished, Innovative <h3 align="center">Full Stack Engineer</h3>with 10+ years of experience in developing and optimizing high-performance web applications.
   
-Expertise in both frontend and backend technologies, including JAVASCRIPT, TYPESCRIPT, PYTHON, and PHP. Demonstrated success in leading development teams, enhancing system scalability, and implementing robust security measures.
+Expertise in both frontend and backend technologies. Demonstrated success in leading development teams, enhancing system scalability, and implementing robust security measures.
 Proven ability to deliver innovative software solutions that drive user engagement and operational efficiency. Highly skilled in working with globally distributed teams, seeking remote opportunities to further leverage technical and leadership skills in dynamic environments.</p>
 
 <br/>
